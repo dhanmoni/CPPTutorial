@@ -1,0 +1,8 @@
+1. Find prime numbers; -- done;
+2.Fibonacci series     - done;     
+3.Palindrome Number;
+4.Factorial;
+5.Armstrong Number;
+6.Sum of digits;
+7.Reverse Number;
+8.Swap Number;
